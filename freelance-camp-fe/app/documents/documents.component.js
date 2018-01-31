@@ -7,17 +7,17 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 var core_1 = require("@angular/core");
-var AppComponent = (function () {
-    function AppComponent() {
+var DocumentsComponent = (function () {
+    function DocumentsComponent() {
     }
-    AppComponent = __decorate([
+    DocumentsComponent = __decorate([
         core_1.Component({
             moduleId: module.id,
-            selector: 'app',
-            templateUrl: 'app.component.html'
+            selector: 'documents',
+            templateUrl: 'documents.component.html'
         })
-    ], AppComponent);
-    return AppComponent;
+    ], DocumentsComponent);
+    return DocumentsComponent;
 }());
-exports.AppComponent = AppComponent;
-//# sourceMappingURL=app.component.js.map
+exports.DocumentsComponent = DocumentsComponent;
+//# sourceMappingURL=documents.component.js.map
