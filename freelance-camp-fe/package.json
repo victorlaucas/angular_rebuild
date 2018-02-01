@@ -33,10 +33,10 @@
     "zone.js": "^0.8.4"
   },
   "devDependencies": {
-    "@types/core-js": "^0.9.34",
+    "@types/core-js": "^0.9.39",
     "@types/node": "^6.0.45",
     "concurrently": "^3.0.0",
     "lite-server": "^2.2.2",
-    "typescript": "2.4.2"
+    "typescript": "^2.4.2"
   }
 }
