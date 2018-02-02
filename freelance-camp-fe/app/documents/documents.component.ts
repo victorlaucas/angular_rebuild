@@ -5,7 +5,7 @@ import { Document } from './document';
   moduleId: module.id,
   selector: 'documents',
   templateUrl: 'documents.component.html',
-  // styleUrls: ['documents.component.css']
+  styleUrls: ['documents.component.css']
 })
 export class DocumentsComponent {
   pageTitle: string = "Document Dashboard"
