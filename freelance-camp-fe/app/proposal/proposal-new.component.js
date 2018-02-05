@@ -11,6 +11,7 @@ var proposal_1 = require("./proposal");
 var ProposalNewComponent = (function () {
     function ProposalNewComponent() {
         this.proposal = new proposal_1.Proposal;
+        this.submitted = false;
     }
     ProposalNewComponent = __decorate([
         core_1.Component({
